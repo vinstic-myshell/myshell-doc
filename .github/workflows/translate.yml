@@ -1,0 +1,6 @@
+name: Translate on commit
+
+on:
+  push:
+    branches:
+      - main
