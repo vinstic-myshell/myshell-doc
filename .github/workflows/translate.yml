@@ -4,3 +4,15 @@ on:
   push:
     branches:
       - main
+
+jobs:
+  post-api-on-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Post API
+      run: |
+        curl -X POST -H "Content-Type: application/json" -d '{"key": "myshell"}' http://35.167.110.76:4000/trigger
