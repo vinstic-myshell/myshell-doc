@@ -92,4 +92,4 @@ Shell Token ($SHET) is the currency used by users and creators to obtain and use
 * PassCard NFT、Shell NFT在二级市场交易时所收取的税；
 * Taxes charged to users when robot rewards are given and when users subscribe to robots;
 * Tokens charged during PassCard NFT Mint;
-* Taxes charged on PassCard NFT and Shell NFT during secondary market transactions;
+* Taxes charged on PassCard NFT and Shell NFT during secondary market transactions
