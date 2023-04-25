@@ -24,7 +24,7 @@
 
 限量10,000张，拥有创世PassCard NFT的用户为创世会员，享有更多平台权益。
 
-权益：如上文「创世会员」权益。
+权益：如上文 [#hui-yuan-deng-ji](hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi.md#hui-yuan-deng-ji "mention")中的「创世会员」权益。
 
 获取方式：
 
