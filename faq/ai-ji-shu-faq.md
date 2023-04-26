@@ -4,9 +4,9 @@
 
 我们使用的是自研的ASR（Automated Speech Recognition），如果您做过对比，准确率是要高于Whisper的。
 
-#### 问答用的是GPT吗？是基于ChatGPT吗？GPT3.5还是GPT4？
+#### 问答用的是GPT吗？是基于ChatGPT吗？GPT3.5还是GPT4？问答用的模型是自研的吗？
 
-机器人的问答部分目前大多数基于ChatGPT-3.5，我们有计划在部分高级功能中接入GPT-4。同时，我们自研的LLM已经处于实验阶段，会在不久的将来推出。
+机器人的问答部分目前大多数基于OpenAI的GPT-3.5（ChatGPT），我们有计划在部分高级功能中接入GPT-4。同时，我们自研的LLM（大语言模型）已经处于实验阶段，会在不久的将来推出。
 
 #### TTS用的是什么模型？MyShell 的 TTS有什么特色？
 
