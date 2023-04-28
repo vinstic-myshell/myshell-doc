@@ -2,27 +2,27 @@
 
 ### 概述
 
-拥有任何一种PassCard NFT的用户，都可以通过提升自己的会员等级，来获得更多的机器人权益。
+拥有任何一种MyShell Pass NFT的用户，都可以通过提升自己的会员等级，来获得更多的机器人权益。
 
 ### 会员等级
 
-| 等级   | 达成条件                               | 权益                                         |
-| ---- | ---------------------------------- | ------------------------------------------ |
-| 预备会员 | 通过任何形式注册的会员                        | 可以使用产品功能                                   |
-| 正式会员 | 拥有PassCard NFT                     | 可以参与到加密经济系统中                               |
-| 创世会员 | 拥有Genesis PassCard NFT的会员，限量10000张 | 可以抢先使用一些强大的Beta功能、更容易地获得平台福利以及加密经济系统中的优惠措施 |
+| 等级   | 达成条件                                   | 权益                                         |
+| ---- | -------------------------------------- | ------------------------------------------ |
+| 预备会员 | 通过任何形式注册的会员                            | 可以使用产品功能                                   |
+| 正式会员 | 拥有MyShell Pass NFT                     | 可以参与到加密经济系统中                               |
+| 创世会员 | 拥有MyShell Genesis Pass NFT的会员，限量10000张 | 可以抢先使用一些强大的Beta功能、更容易地获得平台福利以及加密经济系统中的优惠措施 |
 
 ### 术语表
 
-#### **PassCard NFT**
+#### MyShell Pass NFT
 
-用户侧的NFT，正式会员的凭证，拥有PassCard NFT的用户可以参与到MyShell的加密经济系统中，订阅不同的机器人，充分体验和利用各类Bot服务。
+正式会员的凭证，拥有MyShell Pass NFT的用户可以参与到MyShell的加密经济系统中，订阅不同的机器人，充分体验和利用各类Bot服务。
 
-分为创世Passcard NFT（限量10,000张）与会员PassCard NFT（不限量）。创世Passcard NFT的获取方式如下条。会员PassCard NFT可在完成一定任务的条件下通过消耗Shell Token购买获得（每三个有效用户邀请获得一个支付token来mint会员PassCard NFT的权利），或通过为社区建设以及传播MyShell来获得。
+分为MyShell Genesis Pass NFT（限量10,000张）与MyShell Member Pass NFT（不限量）。MyShell Genesis Pass NFT的获取方式如下条。MyShell Member Pass NFT可在完成一定任务的条件下通过消耗Shell Token购买获得（每三个有效用户邀请获得一个支付token来铸造MyShell Member Pass NFT的权利），或通过为社区建设以及传播MyShell来获得。
 
 #### 创世 PassCard NFT
 
-限量10,000张，拥有创世PassCard NFT的用户为创世会员，享有更多平台权益。
+限量10,000张，拥有MyShell Genesis Pass NFT的用户为创世会员，享有更多平台权益。
 
 权益：如上文 [#hui-yuan-deng-ji](hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi.md#hui-yuan-deng-ji "mention")中的「创世会员」权益。
 
@@ -39,21 +39,11 @@
 用途：
 
 1. 升级机器人的订阅等级，获得更高级的功能；
-2. 在完成一定任务的条件下，可用于支付 mint 新的会员 PassCard NFT，以用于二级市场出售；
+2. 在完成一定任务的条件下，可用于支付 mint 新的MyShell Member Pass NFT，以用于二级市场出售；
 3. 机器人向用户支付任务奖励（当初始的发展基金不足时）。
 
 获取方式：
 
 1. （用户）通过完成机器人发放的任务获得。
 2. （创作者）上架机器人到MyShell平台上，收取用户订阅与升级该机器人支付的Shell Token。
-
-#### Shell NFT
-
-机器人创作者的NFT。
-
-用途：创作者拥有Shell NFT才能将机器人铸造成NFT上架到MyShell平台上。用户订阅机器人后，创作者可获得Shell Token收益。
-
-获取方式：
-
-不限量，公开拍卖，每天拍卖1个。
 
