@@ -60,7 +60,7 @@ Design Objectives:
 2. Solve the incentive problem for Bot providers.
 3. Pay for continuous growth of computing power expenses and development costs.
 
-Shell Token ($SHET)，为用户和创作者在Myshell生态获得和使用的货币。总量为1,000,000,000。
+Shell Token ($SHEL)，为用户和创作者在Myshell生态获得和使用的货币。总量为1,000,000,000。
 
 |                  | 份额  | 解锁条件                                        |
 | ---------------- | --- | ------------------------------------------- |
@@ -68,7 +68,7 @@ Shell Token ($SHET)，为用户和创作者在Myshell生态获得和使用的货
 | 团队发展基金           | 30% | 5年解锁，其中1%用于奖励IDO以前的团队，6个月解锁，其余的按照月度发放不锁定的薪资 |
 | 私募 / IDO / IEO预留 | 10% | 私募TGE 5%，6个月开始解锁（平台发展期），剩余2年按季度线性释放         |
 
-Shell Token ($SHET) is the currency used by users and creators to obtain and use services within the MyShell ecosystem. The total supply is 1,000,000,000.
+Shell Token ($SHEL) is the currency used by users and creators to obtain and use services within the MyShell ecosystem. The total supply is 1,000,000,000.
 
 |                                           | Share | Unlocking Condition                                                                                                                                     |
 | ----------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
