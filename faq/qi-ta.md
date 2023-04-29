@@ -20,9 +20,9 @@ APP一定会推出，我们在寻找用户体验和审查的平衡点。AIGC的�
 
 目前Discord没有语音信息，因此只提供了客服支持的机器人 [#ethan-or-support](../chan-pin-shou-ce/ji-qi-ren-jie-shao.md#ethan-or-support "mention")&#x20;
 
-#### 如何获得Genesis PassCard NFT？
+#### 如何获得MyShell Genesis Pass？
 
-限量10000张的Genesis PassCard NFT目前有几种获得方式：
+限量10000张的MyShell Genesis Pass目前有几种获得方式：
 
 1. 参加Web3合作社区的White List活动，这些活动会在Discord的频道里公布，同时也可以在 [huo-dong](../huo-dong/ "mention")里找到；
 2. 参加社区贡献的任务，这些任务会发布在Discord中Apply-to-join的频道中，或在builders频道中，builders频道需要通过在Apply-to-join频道中介绍自己，并通过审核；这些任务包括了内测、二次创作、转发推特等，根据任务的难度不同，可能采用抽奖或直接发放的不同规则；
