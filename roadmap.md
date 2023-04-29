@@ -62,14 +62,6 @@
 
 <details>
 
-<summary>Shell NFT</summary>
-
-
-
-</details>
-
-<details>
-
 <summary>More Languages Support</summary>
 
 
