@@ -70,7 +70,7 @@
 
 <details>
 
-<summary>Token Airdrop</summary>
+<summary>Token Airdrop 计划公布</summary>
 
 
 
