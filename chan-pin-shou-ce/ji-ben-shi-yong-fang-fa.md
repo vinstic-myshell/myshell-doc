@@ -36,3 +36,7 @@ MyShell提供了多种注册方式。用户可以通过web3钱包的方式，也
 #### Discord社区
 
 登录系统后，左下角点击Discord按钮加入Discord社区。
+
+#### Telegram社区
+
+可通过链接 [https://t.me/+r828PMb0fw85ZWY1](https://t.me/+r828PMb0fw85ZWY1) 加入TG讨论群。
