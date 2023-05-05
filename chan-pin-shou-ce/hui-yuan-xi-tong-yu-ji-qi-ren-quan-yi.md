@@ -24,6 +24,16 @@ MyShell的会员体系与电力系统绑定，用户与机器人交互需要消�
 | Lv.4 | TBD                       | <p>每天恢复300电量；</p><p>可以创建两个公开机器人</p>                                                |
 | Lv.5 | TBD                       | <p>每天恢复600电量；</p><p>机器人能够知识库接入；</p><p>可以创建三个公开机器人；</p><p>机器人能够拥有个性化声音与更多高级功能……</p> |
 
+## 电力系统
+
+### 电力消耗
+
+<table><thead><tr><th>功能</th><th>电量消耗/每交互</th><th data-hidden></th></tr></thead><tbody><tr><td>文本（GPT-3.5）</td><td>1</td><td></td></tr><tr><td>TTS</td><td>1</td><td></td></tr><tr><td>知识库</td><td>1</td><td></td></tr><tr><td>文本（GPT-4）</td><td>10</td><td></td></tr></tbody></table>
+
+### 电力更新
+
+每小时恢复当日电量上限的1/24。不足1不恢复，积累到下次。
+
 ## 术语表
 
 #### MyShell Pass NFT
@@ -36,7 +46,7 @@ MyShell的会员体系与电力系统绑定，用户与机器人交互需要消�
 
 限量10,000张，拥有MyShell Genesis Pass的用户为创世会员，享有更多平台权益。
 
-权益：如上文 [#hui-yuan-deng-ji](hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi.md#hui-yuan-deng-ji "mention")中的「创世会员」权益。
+权益：抢先使用一些强大的Beta功能、更容易地获得平台福利以及加密经济系统中的优惠措施。
 
 获取方式：
 
