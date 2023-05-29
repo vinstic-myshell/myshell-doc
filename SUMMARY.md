@@ -13,6 +13,7 @@
   * [产品更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/README.md)
     * [5月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/5-yue-geng-xin-ri-zhi.md)
     * [4月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/4-yue-geng-xin-ri-zhi.md)
+  * [领取自己的Telegram机器人](chan-pin-shou-ce/ling-qu-zi-ji-de-telegram-ji-qi-ren.md)
 * [FAQ](faq/README.md)
   * [AI技术FAQ](faq/ai-ji-shu-faq.md)
   * [通证经济](faq/tong-zheng-jing-ji.md)
