@@ -8,10 +8,7 @@
 
 MyShell Pass NFT为 ERC 721代币，其用途和获取方式如下。
 
-| 类型                   | 数量限制  | 获取方式                                                   | 用途及优势                              |
-| -------------------- | ----- | ------------------------------------------------------ | ---------------------------------- |
-| MyShell Genesis Pass | 10000 | 合作的社区进行空投                                              | 激励用户尝试新机器人，投喂数据优化迭代，用户可获得 Token 激励 |
-| MyShell Pass         | 不限量   | 在完成一定任务的条件下消耗 Shell Token 获得，或在为社区建设和传播 MyShell 的过程中获得 | 订阅不同的机器人，充分体验和利用各类 BOT 服务          |
+<table><thead><tr><th width="172">类型</th><th width="99">数量限制</th><th>获取方式</th><th>用途及优势</th></tr></thead><tbody><tr><td>MyShell Genesis Pass</td><td>10000</td><td>合作的社区进行空投</td><td>激励用户尝试新机器人，投喂数据优化迭代，用户可获得 Token 激励</td></tr><tr><td>MyShell Pass</td><td>不限量</td><td>在完成一定任务的条件下消耗 Shell Token 获得，或在为社区建设和传播 MyShell 的过程中获得</td><td>订阅不同的机器人，充分体验和利用各类 BOT 服务</td></tr></tbody></table>
 
 ### Token
 
