@@ -1,5 +1,13 @@
 # 5月更新日志
 
+### 20230531
+
+* 简单设置5分钟，你就可以拥有自己的Telegram机器人了！
+* 查看教程：[https://docs.myshell.ai/v/zhong-wen/chan-pin-shou-ce/ling-qu-zi-ji-de-telegram-ji-qi-ren](https://docs.myshell.ai/v/zhong-wen/chan-pin-shou-ce/ling-qu-zi-ji-de-telegram-ji-qi-ren)
+* 请注意：更新后的BOT如果可以公开，别忘了更新，TG BOT会优先调取公开的BOT
+* 私人的BOT同样可以创建Telegram机器人！
+* BOT的介绍可以自己设置，可以为自己的BOT拉粉丝群啦！
+
 ### 20230521
 
 * BOT单独的页面可以被分享了，无论分享的是什么，聊天记录或BOT，分享时会带上“分享人”的邀请链接；

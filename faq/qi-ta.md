@@ -14,7 +14,7 @@ APP一定会推出，我们在寻找用户体验和审查的平衡点。AIGC的�
 
 没有方法可以获得无限对话次数，但通过升级你的会员等级，可以获得更多的机器人交互权益。
 
-我们的会员系统仍在逐步完善，具体的方法参见 [hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi.md](../chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi.md "mention")
+我们的会员系统仍在逐步完善，具体的方法参见 [hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-tbd.md](../chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-tbd.md "mention")
 
 #### 可以在Discord和Bot玩吗？
 

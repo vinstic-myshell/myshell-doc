@@ -7,7 +7,7 @@
 * [产品手册](chan-pin-shou-ce/README.md)
   * [基本使用方法](chan-pin-shou-ce/ji-ben-shi-yong-fang-fa.md)
   * [机器人介绍](chan-pin-shou-ce/ji-qi-ren-jie-shao.md)
-  * [会员系统与机器人权益](chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi.md)
+  * [会员系统与机器人权益（TBD）](chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-tbd.md)
   * [机器人创意工坊（TBD）](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang-tbd.md)
   * [聊天与语言学习](chan-pin-shou-ce/liao-tian-yu-yu-yan-xue-xi.md)
   * [产品更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/README.md)
