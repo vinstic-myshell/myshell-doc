@@ -16,7 +16,7 @@
 4. 给bot想一个简单易读的username吧，之后大家与你的bot在群中交互会频繁使用这个名字，而且不可修改。需要慎重考虑噢\~
 5. 最最最重要的一步：复制你bot的HTTP API！这串字符非常重要，请准确地提交给MyShell并不要泄露给别人。&#x20;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ## 修改bot消息权限
 
@@ -33,11 +33,11 @@ Bot创建好之后，简单按几个按钮，让你的bot可以加入群聊开�
 
 4. 点击「Turn off」，关闭群聊隐私设定，你的bot就可以满世界乱跑啦！
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 最后得到这个界面，说明你成功啦。
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## 回到MyShell填入你的bot token
 
@@ -51,4 +51,12 @@ Bot创建好之后，简单按几个按钮，让你的bot可以加入群聊开�
 * 如果MyShell上更改了bot的名字，TG中也会同步，不过在5小时之内多次修改，只能同步第一次修改的名字\~
 * 更新后的bot如果可以公开，别忘了更新，TG bot会优先调取公开的bot
 
-现在，你可以在Telegraphy敬请享受你的bot啦，还可以把它更轻松地分享给别人。开始享受吧！
+最后的最后，你还可以修改bot在Telegram里的打招呼语并且说明bot用法，有趣的打招呼语和用法介绍可以让别人更快的上手哦，具体步骤如下：
+
+1. 通过Telegram在bot详情页中点击修改，然后「Edit Intro」\
+   ![](<../.gitbook/assets/image (2).png>)
+2. 然后在BotFather中输入打招呼语和用法就大功告成啦！\
+   ![](<../.gitbook/assets/image (4).png>)\
+   ![](<../.gitbook/assets/image (1).png>)
+
+现在，你可以在Telegram敬请享受你的bot啦，还可以把它更轻松地分享给别人。开始享受吧！
