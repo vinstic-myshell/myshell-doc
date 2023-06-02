@@ -11,6 +11,7 @@
   * [机器人创意工坊（TBD）](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang-tbd.md)
   * [聊天与语言学习](chan-pin-shou-ce/liao-tian-yu-yu-yan-xue-xi.md)
   * [产品更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/README.md)
+    * [6月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/6-yue-geng-xin-ri-zhi.md)
     * [5月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/5-yue-geng-xin-ri-zhi.md)
     * [4月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/4-yue-geng-xin-ri-zhi.md)
   * [领取自己的Telegram机器人](chan-pin-shou-ce/ling-qu-zi-ji-de-telegram-ji-qi-ren.md)
