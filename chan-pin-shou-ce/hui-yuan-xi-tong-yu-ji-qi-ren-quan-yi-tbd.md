@@ -1,18 +1,18 @@
-# 会员系统与机器人权益
+# 会员系统与机器人权益（TBD）
 
 ## 会员系统
 
 MyShell的会员体系与电力系统绑定，用户与机器人交互需要消耗电量，更高级的会员拥有更高的电量上限以及恢复速度，以及在机器人工坊中参与创作的更高权限。
 
-任何MyShell的用户都可以通过邀请好友、获得MyShell Pass NFT来提升自己的会员等级，获得更多的机器人权益。有两种路线可以提升会员等级，拥有MyShell Genesis Pass的用户的起始等级为Lv.3。
+任何MyShell的用户都可以通过邀请好友、参与社区活动来提升自己的会员等级，获得更多的机器人权益。有两种路线可以提升会员等级，拥有MyShell Genesis Pass的用户的起始等级为Lv.3。
 
-### Basic
+### Basic（TBD）
 
-<table><thead><tr><th width="103">等级</th><th width="213">达成条件</th><th>权益</th></tr></thead><tbody><tr><td>Lv.1</td><td>通过任何形式注册的会员</td><td>每天恢复40电量</td></tr><tr><td>Lv.2</td><td>邀请三个有效用户，或自己为通过邀请注册</td><td>每天恢复60电量</td></tr><tr><td>Lv.3</td><td>购买MyShell Pass</td><td><p>每天恢复120电量；</p><p>可以创建一个私有机器人</p></td></tr><tr><td>Lv.4</td><td>TBD</td><td><p>每天恢复200电量；</p><p>可以创建一个公开机器人</p></td></tr><tr><td>Lv.5</td><td>TBD</td><td><p>每天恢复200电量；</p><p>机器人能够接入知识库；</p><p>更多权益正在规划中……</p></td></tr></tbody></table>
+<table><thead><tr><th width="103">等级</th><th width="213">达成条件</th><th>权益</th></tr></thead><tbody><tr><td>Lv.1</td><td>通过任何形式注册的会员</td><td>40电量上限；<br>可以创建一个私有机器人</td></tr><tr><td>Lv.2</td><td>邀请三个有效用户，或自己为通过邀请注册</td><td>100电量上限；<br>可以创建一个私有机器人</td></tr><tr><td>Lv.3</td><td>参与社区活动，创作者比赛等</td><td><p>600电量上限；</p><p>可以创建一个私有机器人</p></td></tr><tr><td>Lv.4</td><td>TBD</td><td><p>每天恢复200电量；</p><p>可以创建一个公开机器人</p></td></tr><tr><td>Lv.5</td><td>TBD</td><td><p>每天恢复200电量；</p><p>机器人能够接入知识库；</p><p>更多权益正在规划中……</p></td></tr></tbody></table>
 
-### Genesis
+### Genesis（TBD）
 
-<table><thead><tr><th width="103">等级</th><th width="213">达成条件</th><th>权益</th></tr></thead><tbody><tr><td>Lv.3</td><td>拥有MyShell Genesis Pass的用户</td><td><p>每天恢复200电量；</p><p>可以创建一个公开机器人；</p><p>抢先享受Beta权益</p></td></tr><tr><td>Lv.4</td><td>TBD</td><td><p>每天恢复300电量；</p><p>可以创建两个公开机器人</p></td></tr><tr><td>Lv.5</td><td>TBD</td><td><p>每天恢复600电量；</p><p>机器人能够知识库接入；</p><p>可以创建三个公开机器人；</p><p>机器人能够拥有个性化声音与更多高级功能……</p></td></tr></tbody></table>
+<table><thead><tr><th width="103">等级</th><th width="213">达成条件</th><th>权益</th></tr></thead><tbody><tr><td>Lv.3</td><td>拥有MyShell Genesis Pass的用户</td><td><p>600电量上限；</p><p>可以创建一个公开机器人；</p><p>抢先享受Beta权益</p></td></tr><tr><td>Lv.4</td><td>TBD</td><td><p>每天恢复300电量；</p><p>可以创建两个公开机器人</p></td></tr><tr><td>Lv.5</td><td>TBD</td><td><p>每天恢复600电量；</p><p>机器人能够知识库接入；</p><p>可以创建三个公开机器人；</p><p>机器人能够拥有个性化声音与更多高级功能……</p></td></tr></tbody></table>
 
 ## 电力系统
 
@@ -25,12 +25,6 @@ MyShell的会员体系与电力系统绑定，用户与机器人交互需要消�
 每小时恢复当日电量上限的1/24。不足1不恢复，积累到下次。
 
 ## 术语表
-
-#### MyShell Pass NFT
-
-正式会员的凭证，拥有MyShell Pass NFT的用户可以参与到MyShell的加密经济系统中，订阅不同的机器人，充分体验和利用各类Bot服务。
-
-分为MyShell Genesis Pass（限量10,000张）与MyShell Pass（不限量）。MyShell Genesis Pass的获取方式如下条。MyShell Pass可在完成一定任务的条件下通过消耗Shell Token购买获得（每三个有效用户邀请获得一个支付token来铸造MyShell Pass的权利），或通过为社区建设以及传播MyShell来获得。
 
 #### MyShell Genesis Pass
 
@@ -56,6 +50,6 @@ MyShell的会员体系与电力系统绑定，用户与机器人交互需要消�
 
 获取方式：
 
-1. （用户）通过完成机器人发放的任务获得。
-2. （创作者）上架机器人到MyShell平台上，收取用户订阅与升级该机器人支付的Shell Token。
+1. （用户）通过完成机器人发放的任务获得。（TBD）
+2. （创作者）上架机器人到MyShell平台上，收取用户订阅与升级该机器人支付的Shell Token。（TBD）
 

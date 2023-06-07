@@ -16,7 +16,7 @@
 4. 给bot想一个简单易读的username吧，之后大家与你的bot在群中交互会频繁使用这个名字，而且不可修改。需要慎重考虑噢\~
 5. 最最最重要的一步：复制你bot的HTTP API！这串字符非常重要，请准确地提交给MyShell并不要泄露给别人。&#x20;
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ## 修改bot消息权限
 
@@ -58,7 +58,7 @@ Bot创建好之后，简单按几个按钮，让你的bot可以加入群聊开�
 1. 通过Telegram在bot详情页中点击修改，然后「Edit Intro」\
    ![](<../.gitbook/assets/image (2).png>)
 2. 然后在BotFather中输入打招呼语和用法就大功告成啦！\
-   ![](<../.gitbook/assets/image (3).png>)\
-   ![](<../.gitbook/assets/image (1).png>)
+   ![](<../.gitbook/assets/image (3) (2).png>)\
+   ![](<../.gitbook/assets/image (1) (2).png>)
 
 开始享受吧！

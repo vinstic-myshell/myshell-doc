@@ -36,33 +36,7 @@
 
 <details>
 
-<summary>Streaming Support</summary>
-
-无延迟的语音对话体验
-
-</details>
-
-### 2023/06
-
-<details>
-
-<summary>Multimodal AI models</summary>
-
-
-
-</details>
-
-<details>
-
 <summary>IDO</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>More Languages Support</summary>
 
 
 
@@ -76,15 +50,57 @@
 
 </details>
 
+### 2023/06
+
 <details>
 
-<summary>机器人支持在其它IM软件使用</summary>
+<summary>Prompt辅助撰写</summary>
 
-MyShell.ai中创意工坊将可以支持机器人部署到其它社交平台，同时用户侧绑定社交账号，通过绑定的社交账号中，可以将会员权益延续到其社交媒体上的机器人，预计将支持Telegram、Discord等平台
+降低用户定义prompt门槛，将在6月上线，上线后用户可通过简单身份定义捏出丰富性格特征的bot
+
+</details>
+
+<details>
+
+<summary>Streaming Support</summary>
+
+无延迟的语音对话体验
+
+</details>
+
+<details>
+
+<summary>允许用户自定义TTS</summary>
+
+机器人工坊中支持用户通过声音克隆自定义bot TTS
+
+</details>
+
+<details>
+
+<summary>Multimodal AI models</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>More Languages Support</summary>
+
+
 
 </details>
 
 ### 2023/05
+
+<details>
+
+<summary>机器人支持在其它IM软件使用</summary>
+
+MyShell.ai中创意工坊将可以支持机器人部署到其它社交平台，同时用户侧绑定社交账号，通过绑定的社交账号中，可以将会员权益延续到其社交媒体上的机器人，已支持Telegram，后续将支持Discord等平台
+
+</details>
 
 <details>
 
