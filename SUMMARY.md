@@ -20,7 +20,7 @@
   * [通证经济](faq/tong-zheng-jing-ji.md)
   * [其它](faq/qi-ta.md)
 * [Roadmap](roadmap.md)
-* [Tokenomics](tokenomics.md)
+* [Tokenomics (TBD)](tokenomics-tbd.md)
 * [Team](team.md)
 * [Work with us](work-with-us/README.md)
   * [Go-To-Marketing](work-with-us/go-to-marketing.md)
