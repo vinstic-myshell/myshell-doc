@@ -22,3 +22,5 @@
 * [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [Team](team.md)
+* [Work with us](work-with-us/README.md)
+  * [Go-To-Marketing](work-with-us/go-to-marketing.md)
