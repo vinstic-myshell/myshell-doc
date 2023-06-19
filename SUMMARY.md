@@ -23,6 +23,6 @@
 * [Tokenomics (TBD)](tokenomics.md)
 * [Team](team.md)
 * [Work with us](work-with-us/README.md)
-  * [Develop](work-with-us/develop.md)
+  * [Developer](work-with-us/developer.md)
   * [Products](work-with-us/products.md)
   * [Go-To-Marketing](work-with-us/go-to-marketing.md)
