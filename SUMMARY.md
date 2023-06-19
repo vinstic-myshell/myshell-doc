@@ -22,3 +22,5 @@
   * [Developer](work-with-us/developer.md)
   * [Products](work-with-us/products.md)
   * [Go-To-Marketing](work-with-us/go-to-marketing.md)
+* [产品入口](https://app.myshell.ai)
+* [Discord](https://discord.gg/myshell)
