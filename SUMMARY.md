@@ -1,9 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [🎉 活动](huo-dong/README.md)
-  * [常驻活动](huo-dong/chang-zhu-huo-dong.md)
-  * [4月活动](huo-dong/4-yue-huo-dong.md)
 * [产品手册](chan-pin-shou-ce/README.md)
   * [基本使用方法](chan-pin-shou-ce/ji-ben-shi-yong-fang-fa.md)
   * [机器人介绍](chan-pin-shou-ce/ji-qi-ren-jie-shao.md)
@@ -17,7 +14,6 @@
   * [领取自己的Telegram机器人](chan-pin-shou-ce/ling-qu-zi-ji-de-telegram-ji-qi-ren.md)
 * [FAQ](faq/README.md)
   * [AI技术FAQ](faq/ai-ji-shu-faq.md)
-  * [通证经济](faq/tong-zheng-jing-ji.md)
   * [其它](faq/qi-ta.md)
 * [Roadmap](roadmap.md)
 * [Tokenomics (TBD)](tokenomics.md)

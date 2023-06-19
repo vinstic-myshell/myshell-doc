@@ -24,7 +24,7 @@ APP一定会推出，我们在寻找用户体验和审查的平衡点。AIGC的�
 
 限量10000张的MyShell Genesis Pass目前有几种获得方式：
 
-1. 参加Web3合作社区的White List活动，这些活动会在Discord的频道里公布，同时也可以在 [huo-dong](../huo-dong/ "mention")里找到；
+1. 参加Web3合作社区的White List活动，这些活动会在Discord的频道里公布，同时也可以在 [Broken link](broken-reference "mention")里找到；
 2. 参加社区贡献的任务，这些任务会发布在Discord中Apply-to-join的频道中，或在builders频道中，builders频道需要通过在Apply-to-join频道中介绍自己，并通过审核；这些任务包括了内测、二次创作、转发推特等，根据任务的难度不同，可能采用抽奖或直接发放的不同规则；
 3. 通过社区内求购，或未来等待NFT平台购买；
 
