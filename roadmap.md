@@ -56,7 +56,7 @@
 
 <summary>Prompt辅助撰写</summary>
 
-降低用户定义prompt门槛，将在6月上线，上线后用户可通过简单身份定义捏出丰富性格特征的bot
+降低用户定义prompt门槛，已上线，用户可通过简单身份定义捏出丰富性格特征的bot
 
 </details>
 
