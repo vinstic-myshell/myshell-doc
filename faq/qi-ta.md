@@ -14,7 +14,7 @@ APP一定会推出，我们在寻找用户体验和审查的平衡点。AIGC的�
 
 没有方法可以获得无限对话次数，但通过升级你的会员等级，可以获得更多的机器人交互权益。
 
-我们的会员系统仍在逐步完善，具体的方法参见 [hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-tbd.md](../chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-tbd.md "mention")
+我们的会员系统仍在逐步完善，具体的方法参见 [hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-beta.md](../chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-beta.md "mention")
 
 #### 可以在Discord和Bot玩吗？
 
@@ -24,9 +24,10 @@ APP一定会推出，我们在寻找用户体验和审查的平衡点。AIGC的�
 
 限量10000张的MyShell Genesis Pass目前有几种获得方式：
 
-1. 参加Web3合作社区的White List活动，这些活动会在Discord的频道里公布，同时也可以在 [Broken link](broken-reference "mention")里找到；
-2. 参加社区贡献的任务，这些任务会发布在Discord中Apply-to-join的频道中，或在builders频道中，builders频道需要通过在Apply-to-join频道中介绍自己，并通过审核；这些任务包括了内测、二次创作、转发推特等，根据任务的难度不同，可能采用抽奖或直接发放的不同规则；
-3. 通过社区内求购，或未来等待NFT平台购买；
+1. 通过完成MyShell奖励中心的任务赚取Shell积分，通过Shell积分兑换；
+2. 参加Web3合作社区的White List活动，这些活动会在Discord的频道里公布，同时也可以在 [Broken link](broken-reference "mention")里找到；
+3. 参加社区贡献的任务，这些任务会发布在Discord中Apply-to-join的频道中，或在builders频道中，builders频道需要通过在Apply-to-join频道中介绍自己，并通过审核；这些任务包括了内测、二次创作、转发推特等，根据任务的难度不同，可能采用抽奖或直接发放的不同规则；
+4. 通过社区内求购，或未来等待NFT平台购买；
 
 #### 什么是有效邀请？有效邀请多有什么好处？
 
