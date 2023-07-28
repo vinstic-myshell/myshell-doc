@@ -18,7 +18,7 @@ MyShell的会员分成3类：普通会员，高级会员，及创世通行证，
 
 ### 电力消耗
 
-<table><thead><tr><th>功能</th><th>电量消耗/每交互</th><th data-hidden></th></tr></thead><tbody><tr><td>文本（GPT-3.5）</td><td>1</td><td></td></tr><tr><td>TTS</td><td>1</td><td></td></tr><tr><td>知识库</td><td>1</td><td></td></tr><tr><td>文本（GPT-4）</td><td>30</td><td></td></tr></tbody></table>
+<table><thead><tr><th>功能</th><th>电量消耗/每交互</th><th data-hidden></th></tr></thead><tbody><tr><td>文本（GPT-3.5）</td><td>1</td><td></td></tr><tr><td>TTS</td><td>1</td><td></td></tr><tr><td>知识库</td><td>1</td><td></td></tr><tr><td>文本（非英文增强模型）</td><td>3</td><td></td></tr><tr><td>文本（GPT-4）</td><td>30</td><td></td></tr></tbody></table>
 
 ### 电量更新
 
