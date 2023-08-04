@@ -6,7 +6,7 @@
   * [机器人介绍](chan-pin-shou-ce/ji-qi-ren-jie-shao.md)
   * [会员系统与机器人权益（Beta）](chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-beta.md)
   * [机器人创意工坊](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang.md)
-  * [MyShell积分系统（Beta）](chan-pin-shou-ce/myshell-ji-fen-xi-tong-beta.md)
+  * [MyShell积分系统（Alpha）](chan-pin-shou-ce/myshell-ji-fen-xi-tong-alpha.md)
   * [聊天与语言学习](chan-pin-shou-ce/liao-tian-yu-yu-yan-xue-xi.md)
   * [产品更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/README.md)
     * [7月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/7-yue-geng-xin-ri-zhi.md)
