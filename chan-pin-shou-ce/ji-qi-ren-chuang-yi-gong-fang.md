@@ -59,7 +59,7 @@ _**通过描述定义**_
 
 **对话效果**：Bot通过一句话已经脑补出了一整个RPG游戏引人入胜的剧情，带领玩家一起探险！
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **场景**：工具类Bot
 

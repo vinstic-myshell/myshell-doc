@@ -25,7 +25,7 @@ Bot创建好之后，简单按几个按钮，让你的bot可以加入群聊开�
 1. 使用 「/mybots」命令，进入你的bot管理界面。
 2. 点击「Bot Settings」
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 3. 点击「Group Privacy」
 
@@ -37,7 +37,7 @@ Bot创建好之后，简单按几个按钮，让你的bot可以加入群聊开�
 
 最后得到这个界面，说明你成功啦。不过请注意，如果隐私设定在bot加入群聊后再设定，是不会对已加入的群聊生效的哦\~那么就需要先移除bot再重新邀请！
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 ## 回到MyShell填入你的bot token
 
