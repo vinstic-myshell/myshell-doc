@@ -27,13 +27,13 @@ _**通过角色定义**_
 
 **对话效果**：真实模仿Rick Sanchez“自大”，“嘲讽式”的说话方式以及拥有其背景故事（如下图）
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **输入**：“SpongeBob SquarePants”
 
 **对话效果**：真实模仿了海绵宝宝天真可爱的说话方式，且带入了海绵宝宝的角色经历。（如下图）
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 请注意，在扩充Prompt过程中可能会需要接入网络，对于2021年之后的角色可能需要的等待时间会更长，如果碰到失败的情况，请过两分钟再重试吧，或者加入我们官方[Discord](https://discord.com/invite/XQ7Tx8qEwg)社群直接提问！
 
@@ -51,7 +51,7 @@ _**通过描述定义**_
 
 **对话效果**：Kira作为专属英语老师，会主动询问自身的情况并安排后续学习计划
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **场景**：角色扮演游戏
 
@@ -59,7 +59,7 @@ _**通过描述定义**_
 
 **对话效果**：Bot通过一句话已经脑补出了一整个RPG游戏引人入胜的剧情，带领玩家一起探险！
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **场景**：工具类Bot
 
@@ -67,7 +67,7 @@ _**通过描述定义**_
 
 **对话效果**：Bot会根据用户所提供的话题，帮助生成更吸引人的文案！
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 以上列出了一些常见用例，欢迎来探索更多可能性，快去创造你的专属Bot吧！另外，一个好的机器人也是在不断地调试中诞生的，当您通过自动化Prompt定义出Bot后，其完整的Prompt也将展示出来供您进一步修改，如果调试后达不到想要的效果，就来学习下进阶版的知识吧\~
 
