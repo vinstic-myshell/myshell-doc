@@ -4,25 +4,17 @@
 
 <details>
 
-<summary>自主掌控的LLM模型</summary>
+<summary>IEO</summary>
 
-已经在路上了
 
-支持投喂自己的微调语料，让你的BOT完全符合你的预期🤗
-
-终生记忆库
-
-互联网连接与API访问能力！
-
-更少的限制
 
 </details>
 
 <details>
 
-<summary>IEO</summary>
+<summary>沉浸式交互体验</summary>
 
-
+更加沉浸式的聊天，创造，探索
 
 </details>
 
@@ -39,6 +31,22 @@
 <summary>IDO</summary>
 
 
+
+</details>
+
+<details>
+
+<summary>自主掌控的LLM模型</summary>
+
+已经在路上了
+
+支持投喂自己的微调语料，让你的BOT完全符合你的预期🤗
+
+终生记忆库
+
+互联网连接与API访问能力！
+
+更少的限制
 
 </details>
 

@@ -11,6 +11,7 @@
   * [MyShell积分系统（Alpha）](chan-pin-shou-ce/myshell-ji-fen-xi-tong-alpha.md)
   * [聊天与语言学习](chan-pin-shou-ce/liao-tian-yu-yu-yan-xue-xi.md)
   * [产品更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/README.md)
+    * [9月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/9-yue-geng-xin-ri-zhi.md)
     * [8月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/8-yue-geng-xin-ri-zhi.md)
     * [7月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/7-yue-geng-xin-ri-zhi.md)
     * [6月更新日志](chan-pin-shou-ce/chan-pin-geng-xin-ri-zhi/6-yue-geng-xin-ri-zhi.md)
