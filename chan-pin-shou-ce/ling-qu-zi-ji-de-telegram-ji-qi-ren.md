@@ -41,9 +41,9 @@ Bot创建好之后，简单按几个按钮，让你的bot可以加入群聊开�
 
 ## 回到MyShell填入你的bot token
 
-这是最后一步，只需要回到MyShell的「机器人工坊」，点击进入编辑界面的「System」，在最下方的Token处贴上刚才复制的token就大功告成\~
+这是最后一步，只需要回到MyShell的「探索」- 「我的」，点击进入编辑界面的「应用软件集成」，在Telegram的Token处贴上刚才复制的token就大功告成\~
 
-![](<../.gitbook/assets/image (5).png>)
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 还请注意：
 
