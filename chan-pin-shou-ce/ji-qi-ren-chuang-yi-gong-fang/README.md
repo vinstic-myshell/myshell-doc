@@ -159,7 +159,7 @@ _**通过描述定义**_
 
 知识库相当于机器人的外接大脑，给它超出ChatGPT、超出公开数据集的知识储备，能在特定领域拥有更强的能力。详情可以查看以下文档
 
-[wai-jie-zhi-shi-ku.md](wai-jie-zhi-shi-ku.md "mention")
+[zhi-shi-ku.md](zhi-shi-ku.md "mention")
 
 ## 后续计划
 
