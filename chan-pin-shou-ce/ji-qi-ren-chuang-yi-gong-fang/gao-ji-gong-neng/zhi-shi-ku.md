@@ -16,7 +16,7 @@
 
 在机器人的编辑页面中, 进入「高级设置」的「知识库」面板，打开知识库开关，导入链接后即可为机器人外接知识库。
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 目前支持的链接内容有:
 
@@ -28,7 +28,7 @@
 
 如果您有大量文本内容，需要多层解析，请使用[Gitbook](https://www.gitbook.com/)或[Docusaurus](https://docusaurus.io/)。如果您只需要单层解析，导入任意文本信息丰富网页即可。
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 当您导入时，状态会先显示「Importing」，表示正在解析网页。
 

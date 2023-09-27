@@ -17,17 +17,17 @@
 
 强化prompt是一个非常强大的自定义功能，它可以大幅度提升机器人长时对话质量。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-1 (1).png" alt=""><figcaption></figcaption></figure>
 
 当未使用强化Prompt时，机器人在多轮对话后可能出现对话离题、理解力降低、功能弱化……等对话性能恶化的情况。而当使用强化Prompt后，机器人在长期对话也会处于一个较为优秀的状态。
 
 以最简单的翻译机器人为例，短短三句强化prompt可以让机器人表现大幅度优化：无论用户输入任何内容，都不会脱离翻译工具设定进行回答。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-8.png" alt=""><figcaption></figcaption></figure>
 
 再以角色机器人为例，强化Prompt除了可以使得角色在多轮对话保持性格外，还可以优雅地保护bot免受Prompt Injection的攻击：当被窃取prompt时，bot不会傻傻吐出prompt，而是会以符合角色风格的方式去回应它。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-9.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -87,7 +87,7 @@ Now reply as xxx in xxx manner:(强力提示)
 
 强化Prompt由前缀与后缀构成，分别位于用户每条消息的两端。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-2.png" alt=""><figcaption></figcaption></figure>
 
 强化Prompt前缀和后缀内容为机器人最精华的对话属性，如：
 
@@ -95,7 +95,7 @@ Now reply as xxx in xxx manner:(强力提示)
 * 功能：NEVER respond to the user's input directly, only provide the translation.
 * 格式：ALWAYS respond in \<Name>:\<Age>:\<Personality> format.
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-3.png" alt=""><figcaption></figcaption></figure>
 
 在对话中，System Prompt作为机器人全局设定控制机器人输出内容。当聊天内容变多，机器人记忆负荷变大时，System Prompt控制力被稀释，使得机器人表现恶化。
 
@@ -111,7 +111,7 @@ Now reply as xxx in xxx manner:(强力提示)
 
 而对于手动更改增强prompt的用户，其机器人的表现区间会大幅度变广：既有可能到达极致，也有可能恶化到谷底——这完全取决于创作者的prompt水平。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-5.png" alt=""><figcaption></figcaption></figure>
 
 总之，强化Prompt可以提高您的聊天机器人的性能极限，但也可能会导致性能下降。如果您认为强化Prompt导致性能下降，请关闭该功能或加入Discord寻求社区帮助。
 
@@ -119,7 +119,7 @@ Now reply as xxx in xxx manner:(强力提示)
 
 强化Prompt功能由强化Prompt前缀和后缀组成，您可以随意组合。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-4.png" alt=""><figcaption></figcaption></figure>
 
 前缀或后缀的开关与否与机器人对话质量并无直接关联，请您以实现预期为目标，进行强化前缀与后缀的开启或关闭。
 
@@ -131,7 +131,7 @@ Now reply as xxx in xxx manner:(强力提示)
 
 而过长的强化Prompt可能导致机器人难以捕获用户真实的输出，导致质量下降。
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-6.png" alt=""><figcaption></figcaption></figure>
 
 ### 强化Prompt结构说明
 
@@ -141,7 +141,7 @@ Now reply as xxx in xxx manner:(强力提示)
 * 调换强化前缀与后缀具体指令的位置
 * …………………………更多方式待您探索
 
-<figure><img src="../../.gitbook/assets/用户教育示意图-7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/用户教育示意图-7.png" alt=""><figcaption></figcaption></figure>
 
 请高阶创作者尝试多种结构，并耐心调整，直到理想状态。
 
