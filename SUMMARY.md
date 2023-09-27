@@ -6,6 +6,7 @@
   * [机器人介绍](chan-pin-shou-ce/ji-qi-ren-jie-shao.md)
   * [会员系统与机器人权益（Beta）](chan-pin-shou-ce/hui-yuan-xi-tong-yu-ji-qi-ren-quan-yi-beta.md)
   * [机器人创意工坊](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang/README.md)
+    * [机器人定义](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang/ji-qi-ren-ding-yi.md)
     * [知识库](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang/zhi-shi-ku.md)
     * [高级功能](chan-pin-shou-ce/ji-qi-ren-chuang-yi-gong-fang/gao-ji-gong-neng.md)
   * [MyShell积分系统（Alpha）](chan-pin-shou-ce/myshell-ji-fen-xi-tong-alpha.md)
