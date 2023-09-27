@@ -47,11 +47,11 @@
 当您成功生成后，会得到完整定义、打招呼语、机器人简介、标签与增强prompt。\
 生成的文本内容您均可以任意调整，使机器人实现最佳水平。
 
-当您在使用自动生成时遇到任何问题均可求助MyShell的Discord服务器，活跃的社区用户会帮助您解决问题。
+当您在使用自动生成时遇到任何问题均可求助MyShell的[Discord](https://discord.gg/myshellzh)服务器，活跃的社区用户会帮助您解决问题。
 
 ## 社区支持
 
-在MyShell的Discord服务器有若干沉淀的宝藏，许多优质的创作者在论坛板块分享了机器人的制作经验、创作技巧、甚至复制粘贴即可用的高性能prompt。
+在MyShell的[Discord](https://discord.gg/myshellzh)服务器有若干沉淀的宝藏，许多优质的创作者在论坛板块分享了机器人的制作经验、创作技巧、甚至复制粘贴即可用的高性能prompt。
 
 以下是几个开源了全部配置的帖子案例：
 
@@ -60,6 +60,8 @@
 * [Serena](https://app.myshell.ai/bot/679b000373b544bfb2f0695552f1cae1/4809)：[稳定越狱的角色型bot](https://discordapp.com/channels/1085985874086469775/1143939796297850931)。
 
 在以上例子外，社区中还有大量经验沉淀和开源prompt，您可以在巨人的肩膀上更进一步。
+
+若您在使用开源prompt的过程中遇到困难，请在[Discord](https://discord.gg/myshellzh)服务器的「Workshop」频道求助。
 
 
 
